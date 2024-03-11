@@ -15,6 +15,8 @@ Acest proiect presupune implementarea unui client pentru API-ul BT, cu scopul de
 - Respectă principiile de codare clară, cu denumiri de variabile intuitive
 - Urmează best practices în dezvoltare
 - Documentația și comentariile sunt esențiale
+- Completitudinea/functionalitatea finala a implementarii nu reprezinta un criteriu eliminator, ce urmarim mai mult este procesul de gandire si stilul de scris cod
+- Te invitam sa adaugi un fisier markdown unde sa explici cum ai incercat sa abordezi problema, ce probleme ai intampinat si cum ai incercat sa le depasesti. Acest lucru ne ajuta sa intelegem mai bine modul tau de lucru.
 
 ## Evaluare
 - Ai la dispoziție 2 săptămâni pentru a finaliza proiectul ales.
