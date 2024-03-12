@@ -10,6 +10,7 @@ Scopul acestui proiect este de a implementa o componentă de card într-o aplica
 
 ### 2. ASP.NET Backend
 Acest proiect presupune implementarea unui client pentru API-ul BT, cu scopul de a aduce istoricul tranzacțiilor pentru un cont bancar BT. [Vezi Documentatia OpenAPI](https://apistorebt.ro/bt/sb/accounts-sandbox) [Vezi Documentatia BT](https://apistorebt.ro/bt/sb/sites/bt.sb.apistorebt.ro/themes/bt_psd2_theme/docs/How%20it%20Works_sb.pdf)
+Implementarea trebuie sa fie proprie, fara folosirea de generatori de cod pentru specificatiile OpenAPI.
 
 #### Cerințe:
 - Respectă principiile de codare clară, cu denumiri de variabile intuitive
