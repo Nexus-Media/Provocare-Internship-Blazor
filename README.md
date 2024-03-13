@@ -6,7 +6,7 @@ Acest repozitoriu conține două proiecte de preselecție pentru candidații la 
 ## Proiecte
 
 ### 1. Blazor Frontend
-Scopul acestui proiect este de a implementa o componentă de card într-o aplicație de tip Kiosk, inclusiv animații specifice prezentate într-un video exemplificativ (vezi AnimatieCard.webm).
+Scopul acestui proiect este de a implementa o componentă de card într-o aplicație de tip Kiosk, inclusiv animații specifice prezentate într-un video exemplificativ (vezi AnimatieCard.mp4).
 
 ### 2. ASP.NET Backend
 Acest proiect presupune implementarea unui client pentru API-ul BT, cu scopul de a aduce istoricul tranzacțiilor pentru un cont bancar BT. [Vezi Documentatia OpenAPI](https://apistorebt.ro/bt/sb/accounts-sandbox) [Vezi Documentatia BT](https://apistorebt.ro/bt/sb/sites/bt.sb.apistorebt.ro/themes/bt_psd2_theme/docs/How%20it%20Works_sb.pdf).
